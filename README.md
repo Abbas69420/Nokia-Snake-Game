@@ -100,7 +100,3 @@ This project reuses the ideas from an earlier BFS maze game (grid, graph + BFS s
 - High-score table
 - Bonus food that disappears after a few turns
 - Real-time movement (needs platform-specific headers)
-
-## License
-
-Add a license of your choice (e.g. MIT) before publishing.
